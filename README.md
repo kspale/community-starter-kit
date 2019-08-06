@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome to the Mona project! Every new user needs a little guidance and thats what this project has been developed for.
+Getting more users involved helps create diversity in the community. The more, the merrier!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+-Mona is here to help new users learn how to create their own projects and get started with repositories and pull requests
+-It's not just for new users! Experienced developers are encouraged to contribute featuers they feel useful
 
 ## Getting started
 
